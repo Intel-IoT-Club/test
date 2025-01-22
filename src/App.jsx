@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        hello iot club!
+        hello iot club! branch push
       </p>
     </>
   )
